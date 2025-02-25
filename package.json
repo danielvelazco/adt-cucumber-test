@@ -1,0 +1,16 @@
+{
+  "name": "adt-cucumber-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+     "test:docker": "docker build . -t cucumber-test && docker run -it cucumber-test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0"
+  }
+}
