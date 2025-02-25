@@ -25,10 +25,9 @@ Technical Test: QA Engineer
 
 ### Github actions
 - Go to the test workflow in Actions tab  
-    `https://github.com/danielvelazco/jest-ts-project/actions/workflows/test.yml`
+    `https://github.com/danielvelazco/adt-cucumber-test/actions/workflows/test.yml`
 - Click on the grey Run workflow button
 - Select the branch (main by default)
 - Clicks on the green Run workflow button
   
-  ![image](https://github.com/user-attachments/assets/6aa63494-5503-484a-b642-404b22f2349c)
-  
+  ![action](https://github.com/user-attachments/assets/29b74c30-3b78-4488-8967-3408d4600f16)
